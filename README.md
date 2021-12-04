@@ -8,9 +8,6 @@
 **Fecha:** 04/12/2021
 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
 
 ## Planteamiento
 
