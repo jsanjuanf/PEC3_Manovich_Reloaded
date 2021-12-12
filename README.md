@@ -11,7 +11,11 @@
 
 ## Planteamiento
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La idea de este ensayo ha sido la de detectar / investigar dos casos recientes de hibridación de los medios, casos modernos no comentados en el libro “El Software toma el mando” de Lev Manovich y en diferentes ámbitos de la cultura. 
+
+Según Manovich la hibridación es un proceso de yuxtaposición de diferentes medios (textos, audio y video) todos ellos con sus técnicas de software e interfaces, para crear de nuevos, y con nuevas interfaces de usuario y nuevas experiencias, “…. **un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción / interfaces ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces / herramientas y nuevos formatos de medios al mismo tiempo**.” Lev Manovich, El Software toma el mando.
+
+Ante estas premisas expongo los siguientes casos; por un lado, el **portal inmobiliario Idealista.com** que en algunos de sus productos ha sabido combinar los diferentes medios ofreciendo visitas virtuales cambiando completamente el paradigma de este tipo de portales y, por otro lado, la **aplicación e-learning SkyView** que, a través de la combinación de los medios, ofrece una nueva forma de contemplar el espacio y aprender al mismo tiempo. En ambos casos entiendo que transmiten unas nuevas experiencias a los usuarios, mediante la yuxtaposición de los diferentes medios, creando una propuesta integrada e innovadora.
 
 
 
