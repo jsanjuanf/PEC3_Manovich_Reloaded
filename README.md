@@ -31,7 +31,7 @@ Una vez en la estancia clicada y a través de unos círculos superpuestos en las
 
 > Un detalle, que considero que no es menor pero que no he podido comprobar ya que no dispongo de unas gafas de realidad virtual, es la posibilidad de adentrarme en este inmueble mediante la realidad virtual. 
 
-En definitiva, esta combinación de distintos medios, las etiquetas de textos, la inmersión en la vivienda mediante la realidad virtual, las imágenes fijas, el video e incluso las imágenes en 3D posibilita una nueva interfaz con el usuario ofreciéndole este “tour virtual” y asegurándole una experiencia bastante impresionante, ¡tanto como el piso de muestra!
+En definitiva, esta combinación de distintos medios, las etiquetas de textos, la inmersión en la vivienda mediante la realidad virtual, las imágenes fijas, el video e incluso las imágenes en 3D posibilita una nueva interfaz con el usuario ofreciéndole este “tour virtual” y asegurándole una experiencia bastante impresionante, ¡[tanto como el piso de muestra](https://www.idealista.com/ca/inmueble/94094539/3d-tour)!
 
 
 
