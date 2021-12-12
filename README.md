@@ -62,4 +62,4 @@ Igual que en el primer ejemplo, esta combinación de distintos medios, las etiqu
 
 
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Free Vectors](https://www.freepik.com/)
