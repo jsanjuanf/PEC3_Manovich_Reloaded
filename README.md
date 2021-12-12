@@ -7,7 +7,7 @@
 
 **Fecha:** 04/12/2021
 
-
+![19362653](https://user-images.githubusercontent.com/95545172/145709008-56a13fb8-d47a-42a2-a9b8-0ae56761ee93.jpg)
 
 ## Planteamiento
 
@@ -59,5 +59,7 @@ Igual que en el primer ejemplo, esta combinación de distintos medios, las etiqu
 
 
 ----
+
+
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
