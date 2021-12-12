@@ -56,6 +56,8 @@ Igual que en el primer ejemplo, esta combinación de distintos medios, las etiqu
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* SkyView [en línea] [Fecha de consulta: 10 de diciembre de 2021]. Disponible en: https://www-starmapping-co-uk.translate.goog/sky-view-free-app-review/?_x_tr_sl=en&_x_tr_tl=ca&_x_tr_hl=es&_x_tr_pto=op,sc
+* Idealista [en línea] [Fecha de consulta: 5 de diciembre de 2021]. Disponible en: https://www.idealista.com/ca/inmueble/94094539/3d-tour
 
 
 ----
